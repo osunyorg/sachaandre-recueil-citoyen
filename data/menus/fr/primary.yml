@@ -8,4 +8,9 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Recueils
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
