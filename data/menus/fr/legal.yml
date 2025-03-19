@@ -34,4 +34,9 @@ items:
     children: []
     path: "/posts_categories/autres"
     file: content/fr/posts_categories/autres/_index.html
+  - title: Collectif LGV Non Merci
+    target: lgvnonmerci.fr
+    kind: url
+    new_tab: false
+    children: []
 
