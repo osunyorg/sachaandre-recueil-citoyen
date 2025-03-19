@@ -26,5 +26,12 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
+  children:
+  - title: Association LGVEA
+    target: lgvea.fr
+    kind: url
+    new_tab: true
+    children: []
+    path: "/posts_categories/autres"
+    file: content/fr/posts_categories/autres/_index.html
 
