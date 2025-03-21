@@ -7,9 +7,9 @@ items:
   new_tab: false
   children:
   - title: Collectif LGV Non Merci
-    target: lgvnonmerci.fr
+    target: https://lgvnonmerci.fr
     kind: url
-    new_tab: false
+    new_tab: true
     children: []
   - title: Association LGVEA
     target: lgvea.fr
