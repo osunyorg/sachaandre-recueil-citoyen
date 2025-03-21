@@ -8,3 +8,10 @@ params:
   logo:
     header: ''
     footer: ''
+  posts:
+    index:
+      layout: list
+      options:
+        author: false
+        date: false
+        image: false
