@@ -22,14 +22,12 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
-- title: Mentions légales
-  target: "/mentions-legales/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/mentions-legales"
-  file: content/fr/pages/mentions-legales/_index.html
+  children:
+  - title: Mentions légales
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
 - title: Accessibilité
   target: "/accessibilite/"
   kind: page
