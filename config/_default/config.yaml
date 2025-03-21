@@ -8,3 +8,7 @@ params:
   logo:
     header: ''
     footer: ''
+  posts:
+    index:
+      options:
+        image: false
