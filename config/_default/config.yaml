@@ -6,8 +6,8 @@ params:
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logo_eeafsb_black.svg'
+    footer: '/assets/images/logo_eeafsb_black.svg'
   posts:
     index:
       layout: list
