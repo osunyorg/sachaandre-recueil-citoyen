@@ -12,12 +12,10 @@ items:
     new_tab: true
     children: []
   - title: Association LGVEA
-    target: lgvea.fr
+    target: https://lgvea.fr
     kind: url
     new_tab: true
     children: []
-    path: "/posts_categories/autres"
-    file: content/fr/posts_categories/autres/_index.html
 - title: Liens légaux
   target: ''
   kind: blank
