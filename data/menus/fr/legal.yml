@@ -12,7 +12,7 @@ items:
     new_tab: true
     children: []
   - title: Association LGVEA
-    target: https://lgvea.fr
+    target: https://www.lgvea.fr
     kind: url
     new_tab: true
     children: []
