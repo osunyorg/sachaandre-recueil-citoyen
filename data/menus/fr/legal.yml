@@ -2,44 +2,63 @@
 title: Informations légales
 items:
 - title: S'informer sur la LGV
+  slug: s-informer-sur-la-lgv
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Collectif LGV Non Merci
+    slug: collectif-lgv-non-merci
     target: https://lgvnonmerci.fr
     kind: url
     new_tab: true
     children: []
+    descendants_targets: []
   - title: Association LGVEA
+    slug: association-lgvea
     target: https://www.lgvea.fr
     kind: url
     new_tab: true
     children: []
+    descendants_targets: []
+  descendants_targets:
+  - https://lgvnonmerci.fr
+  - https://www.lgvea.fr
 - title: Liens légaux
+  slug: liens-legaux
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Mentions légales
+    slug: mentions-legales
     target: "/mentions-legales/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/mentions-legales"
     file: content/fr/pages/mentions-legales/_index.html
   - title: Accessibilité
+    slug: accessibilite
     target: "/accessibilite/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/accessibilite"
     file: content/fr/pages/accessibilite/_index.html
   - title: Plan du site
+    slug: plan-du-site
     target: "/plan-du-site/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/plan-du-site"
     file: content/fr/pages/plan-du-site/_index.html
+  descendants_targets:
+  - "/accessibilite/"
+  - "/mentions-legales/"
+  - "/plan-du-site/"
 
