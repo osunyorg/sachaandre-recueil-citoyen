@@ -13,3 +13,1596 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-170/index.html"
+to = "/avis/2025-03-21-contribution-170/"
+
+[[redirects]]
+from = "/actualites/2024-08-30-contribution-317/index.html"
+to = "/avis/2024-08-30-contribution-317/"
+
+[[redirects]]
+from = "/actualites/2024-09-07-contribution-502/index.html"
+to = "/avis/2024-09-07-contribution-502/"
+
+[[redirects]]
+from = "/actualites/2024-09-11-contribution-601/index.html"
+to = "/avis/2024-09-11-contribution-601/"
+
+[[redirects]]
+from = "/actualites/2024-08-31-contribution-342/index.html"
+to = "/avis/2024-08-31-contribution-342/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-227/index.html"
+to = "/avis/2024-08-24-contribution-227/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-445/index.html"
+to = "/avis/2024-09-05-contribution-445/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-217/index.html"
+to = "/avis/2024-08-24-contribution-217/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-201/index.html"
+to = "/avis/2025-03-21-contribution-201/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-797/index.html"
+to = "/avis/2024-09-16-contribution-797/"
+
+[[redirects]]
+from = "/actualites/2024-08-23-contribution-192/index.html"
+to = "/avis/2024-08-23-contribution-192/"
+
+[[redirects]]
+from = "/actualites/autres/index.html"
+to = "/avis/autres/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-802/index.html"
+to = "/avis/2024-09-16-contribution-802/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-235/index.html"
+to = "/avis/2024-08-25-contribution-235/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-9/index.html"
+to = "/avis/2024-08-15-contribution-9/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-225/index.html"
+to = "/avis/2024-08-24-contribution-225/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-134/index.html"
+to = "/avis/2024-08-20-contribution-134/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-369/index.html"
+to = "/avis/2024-09-01-contribution-369/"
+
+[[redirects]]
+from = "/actualites/2024-09-07-contribution-514/index.html"
+to = "/avis/2024-09-07-contribution-514/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-724/index.html"
+to = "/avis/2024-09-14-contribution-724/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-722/index.html"
+to = "/avis/2024-09-13-contribution-722/"
+
+[[redirects]]
+from = "/actualites/2024-08-18-contribution-80/index.html"
+to = "/avis/2024-08-18-contribution-80/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-253/index.html"
+to = "/avis/2024-08-25-contribution-253/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-517/index.html"
+to = "/avis/2024-09-08-contribution-517/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-67/index.html"
+to = "/avis/2024-08-17-contribution-67/"
+
+[[redirects]]
+from = "/actualites/2024-08-21-contribution-146/index.html"
+to = "/avis/2024-08-21-contribution-146/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-633/index.html"
+to = "/avis/2024-09-12-contribution-633/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-28/index.html"
+to = "/avis/2024-08-15-contribution-28/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-119/index.html"
+to = "/avis/2024-08-20-contribution-119/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-59/index.html"
+to = "/avis/2024-08-17-contribution-59/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-112/index.html"
+to = "/avis/2025-03-21-contribution-112/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-279/index.html"
+to = "/avis/2024-08-26-contribution-279/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-437/index.html"
+to = "/avis/2024-09-05-contribution-437/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-766/index.html"
+to = "/avis/2024-09-14-contribution-766/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-743/index.html"
+to = "/avis/2024-09-14-contribution-743/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-715/index.html"
+to = "/avis/2024-09-13-contribution-715/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-709/index.html"
+to = "/avis/2024-09-13-contribution-709/"
+
+[[redirects]]
+from = "/actualites/2024-09-15-contribution-782/index.html"
+to = "/avis/2024-09-15-contribution-782/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-4/index.html"
+to = "/avis/2024-08-15-contribution-4/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-260/index.html"
+to = "/avis/2024-08-26-contribution-260/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-212/index.html"
+to = "/avis/2024-08-24-contribution-212/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-639/index.html"
+to = "/avis/2024-09-12-contribution-639/"
+
+[[redirects]]
+from = "/actualites/2024-08-28-contribution-289/index.html"
+to = "/avis/2024-08-28-contribution-289/"
+
+[[redirects]]
+from = "/actualites/2024-09-02-contribution-381/index.html"
+to = "/avis/2024-09-02-contribution-381/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-1/index.html"
+to = "/avis/2024-08-15-contribution-1/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-528/index.html"
+to = "/avis/2024-09-08-contribution-528/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-228/index.html"
+to = "/avis/2024-08-25-contribution-228/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-407/index.html"
+to = "/avis/2024-09-04-contribution-407/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-168/index.html"
+to = "/avis/2025-03-21-contribution-168/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-57/index.html"
+to = "/avis/2024-08-16-contribution-57/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-626/index.html"
+to = "/avis/2024-09-12-contribution-626/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-127/index.html"
+to = "/avis/2024-08-20-contribution-127/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-56/index.html"
+to = "/avis/2024-08-16-contribution-56/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-651/index.html"
+to = "/avis/2024-09-12-contribution-651/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-220/index.html"
+to = "/avis/2025-03-21-contribution-220/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-11/index.html"
+to = "/avis/2024-08-15-contribution-11/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-72/index.html"
+to = "/avis/2024-08-17-contribution-72/"
+
+[[redirects]]
+from = "/actualites/2024-08-23-contribution-181/index.html"
+to = "/avis/2024-08-23-contribution-181/"
+
+[[redirects]]
+from = "/actualites/2024-08-18-contribution-90/index.html"
+to = "/avis/2024-08-18-contribution-90/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-7/index.html"
+to = "/avis/2024-08-15-contribution-7/"
+
+[[redirects]]
+from = "/actualites/2024-09-07-contribution-509/index.html"
+to = "/avis/2024-09-07-contribution-509/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-347/index.html"
+to = "/avis/2024-09-01-contribution-347/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-624/index.html"
+to = "/avis/2024-09-12-contribution-624/"
+
+[[redirects]]
+from = "/actualites/2024-09-20-contribution-884/index.html"
+to = "/avis/2024-09-20-contribution-884/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-8/index.html"
+to = "/avis/2024-08-15-contribution-8/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-35/index.html"
+to = "/avis/2024-08-15-contribution-35/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-661/index.html"
+to = "/avis/2024-09-12-contribution-661/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-389/index.html"
+to = "/avis/2024-09-04-contribution-389/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-402/index.html"
+to = "/avis/2024-09-04-contribution-402/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-408/index.html"
+to = "/avis/2024-09-04-contribution-408/"
+
+[[redirects]]
+from = "/actualites/2024-09-02-contribution-373/index.html"
+to = "/avis/2024-09-02-contribution-373/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-2/index.html"
+to = "/avis/2024-08-15-contribution-2/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-196/index.html"
+to = "/avis/2025-03-21-contribution-196/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-706/index.html"
+to = "/avis/2024-09-13-contribution-706/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-97/index.html"
+to = "/avis/2024-08-19-contribution-97/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-52/index.html"
+to = "/avis/2024-08-16-contribution-52/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-25/index.html"
+to = "/avis/2024-08-15-contribution-25/"
+
+[[redirects]]
+from = "/actualites/2024-09-03-contribution-385/index.html"
+to = "/avis/2024-09-03-contribution-385/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-166/index.html"
+to = "/avis/2025-03-21-contribution-166/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-404/index.html"
+to = "/avis/2024-09-04-contribution-404/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-129/index.html"
+to = "/avis/2024-08-20-contribution-129/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-446/index.html"
+to = "/avis/2024-09-05-contribution-446/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-540/index.html"
+to = "/avis/2024-09-08-contribution-540/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-331/index.html"
+to = "/avis/2024-08-25-contribution-331/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-79/index.html"
+to = "/avis/2024-08-17-contribution-79/"
+
+[[redirects]]
+from = "/actualites/2024-09-10-contribution-597/index.html"
+to = "/avis/2024-09-10-contribution-597/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-400/index.html"
+to = "/avis/2024-09-04-contribution-400/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-275/index.html"
+to = "/avis/2024-08-26-contribution-275/"
+
+[[redirects]]
+from = "/actualites/2024-09-09-contribution-568/index.html"
+to = "/avis/2024-09-09-contribution-568/"
+
+[[redirects]]
+from = "/actualites/2024-08-23-contribution-194/index.html"
+to = "/avis/2024-08-23-contribution-194/"
+
+[[redirects]]
+from = "/actualites/2024-08-21-contribution-149/index.html"
+to = "/avis/2024-08-21-contribution-149/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-419/index.html"
+to = "/avis/2024-09-04-contribution-419/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-671/index.html"
+to = "/avis/2024-09-12-contribution-671/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-34/index.html"
+to = "/avis/2024-08-15-contribution-34/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-294/index.html"
+to = "/avis/2024-08-26-contribution-294/"
+
+[[redirects]]
+from = "/actualites/2024-08-21-contribution-141/index.html"
+to = "/avis/2024-08-21-contribution-141/"
+
+[[redirects]]
+from = "/actualites/2024-08-21-contribution-147/index.html"
+to = "/avis/2024-08-21-contribution-147/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-700/index.html"
+to = "/avis/2024-09-13-contribution-700/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-104/index.html"
+to = "/avis/2024-08-19-contribution-104/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-793/index.html"
+to = "/avis/2024-09-16-contribution-793/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-48/index.html"
+to = "/avis/2024-08-16-contribution-48/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-719/index.html"
+to = "/avis/2024-09-13-contribution-719/"
+
+[[redirects]]
+from = "/actualites/2024-09-06-contribution-460/index.html"
+to = "/avis/2024-09-06-contribution-460/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-239/index.html"
+to = "/avis/2024-08-25-contribution-239/"
+
+[[redirects]]
+from = "/actualites/2024-08-22-contribution-160/index.html"
+to = "/avis/2024-08-22-contribution-160/"
+
+[[redirects]]
+from = "/actualites/2024-09-18-contribution-855/index.html"
+to = "/avis/2024-09-18-contribution-855/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-99/index.html"
+to = "/avis/2024-08-19-contribution-99/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-683/index.html"
+to = "/avis/2024-09-12-contribution-683/"
+
+[[redirects]]
+from = "/actualites/2024-08-27-contribution-282/index.html"
+to = "/avis/2024-08-27-contribution-282/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-276/index.html"
+to = "/avis/2024-08-26-contribution-276/"
+
+[[redirects]]
+from = "/actualites/2024-09-06-contribution-472/index.html"
+to = "/avis/2024-09-06-contribution-472/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-30/index.html"
+to = "/avis/2024-08-15-contribution-30/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-453/index.html"
+to = "/avis/2024-09-05-contribution-453/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-69/index.html"
+to = "/avis/2024-08-17-contribution-69/"
+
+[[redirects]]
+from = "/actualites/2024-09-10-contribution-593/index.html"
+to = "/avis/2024-09-10-contribution-593/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-824/index.html"
+to = "/avis/2024-09-16-contribution-824/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-425/index.html"
+to = "/avis/2025-03-21-contribution-425/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-356/index.html"
+to = "/avis/2024-09-01-contribution-356/"
+
+[[redirects]]
+from = "/actualites/2024-09-06-contribution-470/index.html"
+to = "/avis/2024-09-06-contribution-470/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-268/index.html"
+to = "/avis/2024-08-26-contribution-268/"
+
+[[redirects]]
+from = "/actualites/2024-09-17-contribution-841/index.html"
+to = "/avis/2024-09-17-contribution-841/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-550/index.html"
+to = "/avis/2024-09-08-contribution-550/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-698/index.html"
+to = "/avis/2024-09-13-contribution-698/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-198/index.html"
+to = "/avis/2025-03-21-contribution-198/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-354/index.html"
+to = "/avis/2024-09-01-contribution-354/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-205/index.html"
+to = "/avis/2025-03-21-contribution-205/"
+
+[[redirects]]
+from = "/actualites/2024-08-27-contribution-283/index.html"
+to = "/avis/2024-08-27-contribution-283/"
+
+[[redirects]]
+from = "/actualites/2024-09-20-contribution-887/index.html"
+to = "/avis/2024-09-20-contribution-887/"
+
+[[redirects]]
+from = "/actualites/2024-08-23-contribution-186/index.html"
+to = "/avis/2024-08-23-contribution-186/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-440/index.html"
+to = "/avis/2024-09-05-contribution-440/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-657/index.html"
+to = "/avis/2024-09-12-contribution-657/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-209/index.html"
+to = "/avis/2024-08-24-contribution-209/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-675/index.html"
+to = "/avis/2024-09-12-contribution-675/"
+
+[[redirects]]
+from = "/actualites/2024-09-06-contribution-483/index.html"
+to = "/avis/2024-09-06-contribution-483/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-18/index.html"
+to = "/avis/2024-08-15-contribution-18/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-806/index.html"
+to = "/avis/2024-09-16-contribution-806/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-37/index.html"
+to = "/avis/2024-08-15-contribution-37/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-5/index.html"
+to = "/avis/2024-08-15-contribution-5/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-10/index.html"
+to = "/avis/2024-08-15-contribution-10/"
+
+[[redirects]]
+from = "/actualites/2024-09-19-contribution-872/index.html"
+to = "/avis/2024-09-19-contribution-872/"
+
+[[redirects]]
+from = "/actualites/pour/index.html"
+to = "/avis/pour/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-16/index.html"
+to = "/avis/2024-08-15-contribution-16/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-29/index.html"
+to = "/avis/2024-08-15-contribution-29/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-74/index.html"
+to = "/avis/2024-08-17-contribution-74/"
+
+[[redirects]]
+from = "/actualites/2024-08-28-contribution-291/index.html"
+to = "/avis/2024-08-28-contribution-291/"
+
+[[redirects]]
+from = "/actualites/2024-09-02-contribution-377/index.html"
+to = "/avis/2024-09-02-contribution-377/"
+
+[[redirects]]
+from = "/actualites/2024-09-15-contribution-774/index.html"
+to = "/avis/2024-09-15-contribution-774/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-169/index.html"
+to = "/avis/2025-03-21-contribution-169/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-409/index.html"
+to = "/avis/2024-09-04-contribution-409/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-118/index.html"
+to = "/avis/2024-08-20-contribution-118/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-693/index.html"
+to = "/avis/2024-09-13-contribution-693/"
+
+[[redirects]]
+from = "/actualites/2024-08-29-contribution-293/index.html"
+to = "/avis/2024-08-29-contribution-293/"
+
+[[redirects]]
+from = "/actualites/2024-09-15-contribution-778/index.html"
+to = "/avis/2024-09-15-contribution-778/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-191/index.html"
+to = "/avis/2025-03-21-contribution-191/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-206/index.html"
+to = "/avis/2024-08-24-contribution-206/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-51/index.html"
+to = "/avis/2024-08-16-contribution-51/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-126/index.html"
+to = "/avis/2024-08-20-contribution-126/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-254/index.html"
+to = "/avis/2024-08-25-contribution-254/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-454/index.html"
+to = "/avis/2024-09-05-contribution-454/"
+
+[[redirects]]
+from = "/actualites/2024-08-30-contribution-324/index.html"
+to = "/avis/2024-08-30-contribution-324/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-368/index.html"
+to = "/avis/2024-09-01-contribution-368/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-55/index.html"
+to = "/avis/2024-08-16-contribution-55/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-704/index.html"
+to = "/avis/2024-09-13-contribution-704/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-360/index.html"
+to = "/avis/2024-09-01-contribution-360/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-277/index.html"
+to = "/avis/2024-08-26-contribution-277/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-732/index.html"
+to = "/avis/2024-09-13-contribution-732/"
+
+[[redirects]]
+from = "/actualites/2024-09-09-contribution-570/index.html"
+to = "/avis/2024-09-09-contribution-570/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-609/index.html"
+to = "/avis/2024-09-12-contribution-609/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-459/index.html"
+to = "/avis/2024-09-05-contribution-459/"
+
+[[redirects]]
+from = "/actualites/2024-08-31-contribution-345/index.html"
+to = "/avis/2024-08-31-contribution-345/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-13/index.html"
+to = "/avis/2024-08-15-contribution-13/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-754/index.html"
+to = "/avis/2024-09-14-contribution-754/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-53/index.html"
+to = "/avis/2024-08-16-contribution-53/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-66/index.html"
+to = "/avis/2024-08-17-contribution-66/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-115/index.html"
+to = "/avis/2024-08-20-contribution-115/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-427/index.html"
+to = "/avis/2024-09-05-contribution-427/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-150/index.html"
+to = "/avis/2025-03-21-contribution-150/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-114/index.html"
+to = "/avis/2024-08-19-contribution-114/"
+
+[[redirects]]
+from = "/actualites/2024-09-07-contribution-496/index.html"
+to = "/avis/2024-09-07-contribution-496/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-42/index.html"
+to = "/avis/2024-08-16-contribution-42/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-252/index.html"
+to = "/avis/2024-08-25-contribution-252/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-131/index.html"
+to = "/avis/2024-08-20-contribution-131/"
+
+[[redirects]]
+from = "/actualites/2024-08-31-contribution-333/index.html"
+to = "/avis/2024-08-31-contribution-333/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-15/index.html"
+to = "/avis/2024-08-15-contribution-15/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-431/index.html"
+to = "/avis/2024-09-05-contribution-431/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-20/index.html"
+to = "/avis/2024-08-15-contribution-20/"
+
+[[redirects]]
+from = "/actualites/2024-09-07-contribution-512/index.html"
+to = "/avis/2024-09-07-contribution-512/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-174/index.html"
+to = "/avis/2025-03-21-contribution-174/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-536/index.html"
+to = "/avis/2024-09-08-contribution-536/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-390/index.html"
+to = "/avis/2024-09-04-contribution-390/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-822/index.html"
+to = "/avis/2024-09-16-contribution-822/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-444/index.html"
+to = "/avis/2024-09-05-contribution-444/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/avis/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-546/index.html"
+to = "/avis/2024-09-08-contribution-546/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-679/index.html"
+to = "/avis/2024-09-12-contribution-679/"
+
+[[redirects]]
+from = "/actualites/2024-09-19-contribution-870/index.html"
+to = "/avis/2024-09-19-contribution-870/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-263/index.html"
+to = "/avis/2024-08-26-contribution-263/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-111/index.html"
+to = "/avis/2025-03-21-contribution-111/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-684/index.html"
+to = "/avis/2024-09-12-contribution-684/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-750/index.html"
+to = "/avis/2024-09-14-contribution-750/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-457/index.html"
+to = "/avis/2024-09-05-contribution-457/"
+
+[[redirects]]
+from = "/actualites/2024-09-19-contribution-874/index.html"
+to = "/avis/2024-09-19-contribution-874/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-259/index.html"
+to = "/avis/2024-08-25-contribution-259/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-226/index.html"
+to = "/avis/2024-08-24-contribution-226/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-128/index.html"
+to = "/avis/2024-08-20-contribution-128/"
+
+[[redirects]]
+from = "/actualites/2024-09-02-contribution-379/index.html"
+to = "/avis/2024-09-02-contribution-379/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-430/index.html"
+to = "/avis/2024-09-05-contribution-430/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-443/index.html"
+to = "/avis/2024-09-05-contribution-443/"
+
+[[redirects]]
+from = "/actualites/2024-09-02-contribution-378/index.html"
+to = "/avis/2024-09-02-contribution-378/"
+
+[[redirects]]
+from = "/actualites/2024-08-21-contribution-143/index.html"
+to = "/avis/2024-08-21-contribution-143/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-64/index.html"
+to = "/avis/2024-08-17-contribution-64/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-255/index.html"
+to = "/avis/2024-08-25-contribution-255/"
+
+[[redirects]]
+from = "/actualites/2024-08-18-contribution-87/index.html"
+to = "/avis/2024-08-18-contribution-87/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-38/index.html"
+to = "/avis/2024-08-15-contribution-38/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-62/index.html"
+to = "/avis/2024-08-17-contribution-62/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-728/index.html"
+to = "/avis/2024-09-13-contribution-728/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-68/index.html"
+to = "/avis/2024-08-17-contribution-68/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-233/index.html"
+to = "/avis/2024-08-25-contribution-233/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-363/index.html"
+to = "/avis/2024-09-01-contribution-363/"
+
+[[redirects]]
+from = "/actualites/2024-09-09-contribution-554/index.html"
+to = "/avis/2024-09-09-contribution-554/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-222/index.html"
+to = "/avis/2024-08-24-contribution-222/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-396/index.html"
+to = "/avis/2024-09-04-contribution-396/"
+
+[[redirects]]
+from = "/actualites/2024-09-19-contribution-878/index.html"
+to = "/avis/2024-09-19-contribution-878/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-644/index.html"
+to = "/avis/2024-09-12-contribution-644/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-211/index.html"
+to = "/avis/2024-08-24-contribution-211/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-26/index.html"
+to = "/avis/2024-08-15-contribution-26/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-770/index.html"
+to = "/avis/2024-09-14-contribution-770/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-355/index.html"
+to = "/avis/2024-09-01-contribution-355/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-729/index.html"
+to = "/avis/2024-09-13-contribution-729/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-413/index.html"
+to = "/avis/2024-09-04-contribution-413/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-258/index.html"
+to = "/avis/2024-08-25-contribution-258/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-58/index.html"
+to = "/avis/2024-08-16-contribution-58/"
+
+[[redirects]]
+from = "/actualites/2024-08-28-contribution-288/index.html"
+to = "/avis/2024-08-28-contribution-288/"
+
+[[redirects]]
+from = "/actualites/2024-09-15-contribution-786/index.html"
+to = "/avis/2024-09-15-contribution-786/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-828/index.html"
+to = "/avis/2024-09-16-contribution-828/"
+
+[[redirects]]
+from = "/actualites/2024-08-29-contribution-302/index.html"
+to = "/avis/2024-08-29-contribution-302/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-102/index.html"
+to = "/avis/2024-08-19-contribution-102/"
+
+[[redirects]]
+from = "/actualites/2024-09-06-contribution-563/index.html"
+to = "/avis/2024-09-06-contribution-563/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-432/index.html"
+to = "/avis/2024-09-05-contribution-432/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-520/index.html"
+to = "/avis/2024-09-08-contribution-520/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-49/index.html"
+to = "/avis/2024-08-16-contribution-49/"
+
+[[redirects]]
+from = "/actualites/2024-08-21-contribution-145/index.html"
+to = "/avis/2024-08-21-contribution-145/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-95/index.html"
+to = "/avis/2024-08-19-contribution-95/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-43/index.html"
+to = "/avis/2024-08-16-contribution-43/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-620/index.html"
+to = "/avis/2024-09-12-contribution-620/"
+
+[[redirects]]
+from = "/actualites/2024-08-22-contribution-164/index.html"
+to = "/avis/2024-08-22-contribution-164/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-117/index.html"
+to = "/avis/2024-08-20-contribution-117/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-177/index.html"
+to = "/avis/2025-03-21-contribution-177/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-438/index.html"
+to = "/avis/2024-09-05-contribution-438/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-808/index.html"
+to = "/avis/2024-09-16-contribution-808/"
+
+[[redirects]]
+from = "/actualites/2024-08-22-contribution-159/index.html"
+to = "/avis/2024-08-22-contribution-159/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-746/index.html"
+to = "/avis/2024-09-14-contribution-746/"
+
+[[redirects]]
+from = "/actualites/2024-09-07-contribution-494/index.html"
+to = "/avis/2024-09-07-contribution-494/"
+
+[[redirects]]
+from = "/actualites/2024-09-06-contribution-464/index.html"
+to = "/avis/2024-09-06-contribution-464/"
+
+[[redirects]]
+from = "/actualites/2024-08-21-contribution-137/index.html"
+to = "/avis/2024-08-21-contribution-137/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-362/index.html"
+to = "/avis/2024-09-01-contribution-362/"
+
+[[redirects]]
+from = "/actualites/2024-09-09-contribution-574/index.html"
+to = "/avis/2024-09-09-contribution-574/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-758/index.html"
+to = "/avis/2024-09-14-contribution-758/"
+
+[[redirects]]
+from = "/actualites/2024-08-23-contribution-185/index.html"
+to = "/avis/2024-08-23-contribution-185/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-248/index.html"
+to = "/avis/2024-08-25-contribution-248/"
+
+[[redirects]]
+from = "/actualites/2024-09-19-contribution-864/index.html"
+to = "/avis/2024-09-19-contribution-864/"
+
+[[redirects]]
+from = "/actualites/2024-08-29-contribution-306/index.html"
+to = "/avis/2024-08-29-contribution-306/"
+
+[[redirects]]
+from = "/actualites/2024-09-15-contribution-789/index.html"
+to = "/avis/2024-09-15-contribution-789/"
+
+[[redirects]]
+from = "/actualites/2024-08-31-contribution-344/index.html"
+to = "/avis/2024-08-31-contribution-344/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-447/index.html"
+to = "/avis/2024-09-05-contribution-447/"
+
+[[redirects]]
+from = "/actualites/2024-08-18-contribution-82/index.html"
+to = "/avis/2024-08-18-contribution-82/"
+
+[[redirects]]
+from = "/actualites/2024-09-09-contribution-578/index.html"
+to = "/avis/2024-09-09-contribution-578/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-267/index.html"
+to = "/avis/2024-08-26-contribution-267/"
+
+[[redirects]]
+from = "/actualites/2024-09-18-contribution-851/index.html"
+to = "/avis/2024-09-18-contribution-851/"
+
+[[redirects]]
+from = "/actualites/2024-09-07-contribution-492/index.html"
+to = "/avis/2024-09-07-contribution-492/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-814/index.html"
+to = "/avis/2024-09-16-contribution-814/"
+
+[[redirects]]
+from = "/actualites/2024-08-21-contribution-139/index.html"
+to = "/avis/2024-08-21-contribution-139/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-158/index.html"
+to = "/avis/2025-03-21-contribution-158/"
+
+[[redirects]]
+from = "/actualites/2024-08-31-contribution-325/index.html"
+to = "/avis/2024-08-31-contribution-325/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-125/index.html"
+to = "/avis/2024-08-20-contribution-125/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-296/index.html"
+to = "/avis/2024-08-26-contribution-296/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-524/index.html"
+to = "/avis/2024-09-08-contribution-524/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-6/index.html"
+to = "/avis/2024-08-15-contribution-6/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-817/index.html"
+to = "/avis/2024-09-16-contribution-817/"
+
+[[redirects]]
+from = "/actualites/contre/index.html"
+to = "/avis/contre/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-611/index.html"
+to = "/avis/2024-09-12-contribution-611/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-737/index.html"
+to = "/avis/2024-09-14-contribution-737/"
+
+[[redirects]]
+from = "/actualites/2024-09-20-contribution-886/index.html"
+to = "/avis/2024-09-20-contribution-886/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-60/index.html"
+to = "/avis/2024-08-17-contribution-60/"
+
+[[redirects]]
+from = "/actualites/2024-09-20-contribution-882/index.html"
+to = "/avis/2024-09-20-contribution-882/"
+
+[[redirects]]
+from = "/actualites/2024-09-02-contribution-542/index.html"
+to = "/avis/2024-09-02-contribution-542/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-641/index.html"
+to = "/avis/2024-09-12-contribution-641/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-120/index.html"
+to = "/avis/2024-08-20-contribution-120/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-635/index.html"
+to = "/avis/2024-09-12-contribution-635/"
+
+[[redirects]]
+from = "/actualites/2024-08-18-contribution-89/index.html"
+to = "/avis/2024-08-18-contribution-89/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-12/index.html"
+to = "/avis/2024-08-15-contribution-12/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-548/index.html"
+to = "/avis/2024-09-08-contribution-548/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-708/index.html"
+to = "/avis/2024-09-13-contribution-708/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-40/index.html"
+to = "/avis/2024-08-16-contribution-40/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-96/index.html"
+to = "/avis/2024-08-19-contribution-96/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-219/index.html"
+to = "/avis/2024-08-24-contribution-219/"
+
+[[redirects]]
+from = "/actualites/2024-08-31-contribution-338/index.html"
+to = "/avis/2024-08-31-contribution-338/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-207/index.html"
+to = "/avis/2024-08-24-contribution-207/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-637/index.html"
+to = "/avis/2024-09-12-contribution-637/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-672/index.html"
+to = "/avis/2024-09-12-contribution-672/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-607/index.html"
+to = "/avis/2024-09-12-contribution-607/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-65/index.html"
+to = "/avis/2024-08-17-contribution-65/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-14/index.html"
+to = "/avis/2024-08-15-contribution-14/"
+
+[[redirects]]
+from = "/actualites/2024-09-02-contribution-374/index.html"
+to = "/avis/2024-09-02-contribution-374/"
+
+[[redirects]]
+from = "/actualites/2024-08-22-contribution-156/index.html"
+to = "/avis/2024-08-22-contribution-156/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-422/index.html"
+to = "/avis/2024-09-04-contribution-422/"
+
+[[redirects]]
+from = "/actualites/2024-09-17-contribution-832/index.html"
+to = "/avis/2024-09-17-contribution-832/"
+
+[[redirects]]
+from = "/actualites/2024-09-07-contribution-500/index.html"
+to = "/avis/2024-09-07-contribution-500/"
+
+[[redirects]]
+from = "/actualites/2024-09-15-contribution-791/index.html"
+to = "/avis/2024-09-15-contribution-791/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-183/index.html"
+to = "/avis/2025-03-21-contribution-183/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-433/index.html"
+to = "/avis/2024-09-05-contribution-433/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-399/index.html"
+to = "/avis/2024-09-04-contribution-399/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-266/index.html"
+to = "/avis/2024-08-26-contribution-266/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-353/index.html"
+to = "/avis/2024-09-01-contribution-353/"
+
+[[redirects]]
+from = "/actualites/2024-09-10-contribution-595/index.html"
+to = "/avis/2024-09-10-contribution-595/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-0/index.html"
+to = "/avis/2024-08-15-contribution-0/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-713/index.html"
+to = "/avis/2024-09-13-contribution-713/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-526/index.html"
+to = "/avis/2024-09-08-contribution-526/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-202/index.html"
+to = "/avis/2025-03-21-contribution-202/"
+
+[[redirects]]
+from = "/actualites/2024-09-11-contribution-603/index.html"
+to = "/avis/2024-09-11-contribution-603/"
+
+[[redirects]]
+from = "/actualites/2024-09-09-contribution-586/index.html"
+to = "/avis/2024-09-09-contribution-586/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-358/index.html"
+to = "/avis/2024-09-01-contribution-358/"
+
+[[redirects]]
+from = "/actualites/2024-09-20-contribution-885/index.html"
+to = "/avis/2024-09-20-contribution-885/"
+
+[[redirects]]
+from = "/actualites/2024-08-26-contribution-271/index.html"
+to = "/avis/2024-08-26-contribution-271/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-616/index.html"
+to = "/avis/2024-09-12-contribution-616/"
+
+[[redirects]]
+from = "/actualites/2024-08-29-contribution-301/index.html"
+to = "/avis/2024-08-29-contribution-301/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-61/index.html"
+to = "/avis/2024-08-17-contribution-61/"
+
+[[redirects]]
+from = "/actualites/2024-08-18-contribution-85/index.html"
+to = "/avis/2024-08-18-contribution-85/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-200/index.html"
+to = "/avis/2025-03-21-contribution-200/"
+
+[[redirects]]
+from = "/actualites/2024-08-23-contribution-189/index.html"
+to = "/avis/2024-08-23-contribution-189/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-415/index.html"
+to = "/avis/2024-09-04-contribution-415/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-73/index.html"
+to = "/avis/2024-08-17-contribution-73/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-405/index.html"
+to = "/avis/2024-09-04-contribution-405/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-629/index.html"
+to = "/avis/2024-09-12-contribution-629/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-668/index.html"
+to = "/avis/2024-09-12-contribution-668/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-215/index.html"
+to = "/avis/2024-08-24-contribution-215/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-106/index.html"
+to = "/avis/2024-08-19-contribution-106/"
+
+[[redirects]]
+from = "/actualites/2024-08-29-contribution-298/index.html"
+to = "/avis/2024-08-29-contribution-298/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-190/index.html"
+to = "/avis/2025-03-21-contribution-190/"
+
+[[redirects]]
+from = "/actualites/2024-08-22-contribution-157/index.html"
+to = "/avis/2024-08-22-contribution-157/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-54/index.html"
+to = "/avis/2024-08-16-contribution-54/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-830/index.html"
+to = "/avis/2024-09-16-contribution-830/"
+
+[[redirects]]
+from = "/actualites/2024-09-13-contribution-702/index.html"
+to = "/avis/2024-09-13-contribution-702/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-245/index.html"
+to = "/avis/2025-03-21-contribution-245/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-21/index.html"
+to = "/avis/2024-08-15-contribution-21/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-47/index.html"
+to = "/avis/2024-08-16-contribution-47/"
+
+[[redirects]]
+from = "/actualites/2024-08-18-contribution-84/index.html"
+to = "/avis/2024-08-18-contribution-84/"
+
+[[redirects]]
+from = "/actualites/2024-09-14-contribution-762/index.html"
+to = "/avis/2024-09-14-contribution-762/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-237/index.html"
+to = "/avis/2024-08-25-contribution-237/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-406/index.html"
+to = "/avis/2024-09-04-contribution-406/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-123/index.html"
+to = "/avis/2024-08-20-contribution-123/"
+
+[[redirects]]
+from = "/actualites/2024-08-18-contribution-92/index.html"
+to = "/avis/2024-08-18-contribution-92/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-105/index.html"
+to = "/avis/2024-08-19-contribution-105/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-243/index.html"
+to = "/avis/2024-08-25-contribution-243/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-687/index.html"
+to = "/avis/2024-09-12-contribution-687/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-63/index.html"
+to = "/avis/2024-08-17-contribution-63/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-398/index.html"
+to = "/avis/2024-09-04-contribution-398/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-17/index.html"
+to = "/avis/2024-08-15-contribution-17/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-175/index.html"
+to = "/avis/2025-03-21-contribution-175/"
+
+[[redirects]]
+from = "/actualites/2024-08-22-contribution-154/index.html"
+to = "/avis/2024-08-22-contribution-154/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-659/index.html"
+to = "/avis/2024-09-12-contribution-659/"
+
+[[redirects]]
+from = "/actualites/2024-08-18-contribution-83/index.html"
+to = "/avis/2024-08-18-contribution-83/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-522/index.html"
+to = "/avis/2024-09-08-contribution-522/"
+
+[[redirects]]
+from = "/actualites/2025-03-21-contribution-176/index.html"
+to = "/avis/2025-03-21-contribution-176/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-22/index.html"
+to = "/avis/2024-08-15-contribution-22/"
+
+[[redirects]]
+from = "/actualites/2024-08-20-contribution-121/index.html"
+to = "/avis/2024-08-20-contribution-121/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-622/index.html"
+to = "/avis/2024-09-12-contribution-622/"
+
+[[redirects]]
+from = "/actualites/2024-09-16-contribution-795/index.html"
+to = "/avis/2024-09-16-contribution-795/"
+
+[[redirects]]
+from = "/actualites/2024-08-15-contribution-33/index.html"
+to = "/avis/2024-08-15-contribution-33/"
+
+[[redirects]]
+from = "/actualites/2024-09-18-contribution-859/index.html"
+to = "/avis/2024-09-18-contribution-859/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-665/index.html"
+to = "/avis/2024-09-12-contribution-665/"
+
+[[redirects]]
+from = "/actualites/2024-09-04-contribution-393/index.html"
+to = "/avis/2024-09-04-contribution-393/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-458/index.html"
+to = "/avis/2024-09-05-contribution-458/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-673/index.html"
+to = "/avis/2024-09-12-contribution-673/"
+
+[[redirects]]
+from = "/actualites/2024-08-30-contribution-320/index.html"
+to = "/avis/2024-08-30-contribution-320/"
+
+[[redirects]]
+from = "/actualites/2024-09-01-contribution-349/index.html"
+to = "/avis/2024-09-01-contribution-349/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-46/index.html"
+to = "/avis/2024-08-16-contribution-46/"
+
+[[redirects]]
+from = "/actualites/2024-08-22-contribution-162/index.html"
+to = "/avis/2024-08-22-contribution-162/"
+
+[[redirects]]
+from = "/actualites/2024-08-30-contribution-316/index.html"
+to = "/avis/2024-08-30-contribution-316/"
+
+[[redirects]]
+from = "/actualites/2024-08-16-contribution-41/index.html"
+to = "/avis/2024-08-16-contribution-41/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-544/index.html"
+to = "/avis/2024-09-08-contribution-544/"
+
+[[redirects]]
+from = "/actualites/2024-09-06-contribution-490/index.html"
+to = "/avis/2024-09-06-contribution-490/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-257/index.html"
+to = "/avis/2024-08-25-contribution-257/"
+
+[[redirects]]
+from = "/actualites/2024-09-19-contribution-876/index.html"
+to = "/avis/2024-09-19-contribution-876/"
+
+[[redirects]]
+from = "/actualites/2024-09-07-contribution-498/index.html"
+to = "/avis/2024-09-07-contribution-498/"
+
+[[redirects]]
+from = "/actualites/2024-08-21-contribution-148/index.html"
+to = "/avis/2024-08-21-contribution-148/"
+
+[[redirects]]
+from = "/actualites/2024-09-06-contribution-478/index.html"
+to = "/avis/2024-09-06-contribution-478/"
+
+[[redirects]]
+from = "/actualites/2024-08-24-contribution-218/index.html"
+to = "/avis/2024-08-24-contribution-218/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-534/index.html"
+to = "/avis/2024-09-08-contribution-534/"
+
+[[redirects]]
+from = "/actualites/2024-08-28-contribution-292/index.html"
+to = "/avis/2024-08-28-contribution-292/"
+
+[[redirects]]
+from = "/actualites/2024-08-19-contribution-98/index.html"
+to = "/avis/2024-08-19-contribution-98/"
+
+[[redirects]]
+from = "/actualites/2024-08-31-contribution-340/index.html"
+to = "/avis/2024-08-31-contribution-340/"
+
+[[redirects]]
+from = "/actualites/2024-09-12-contribution-618/index.html"
+to = "/avis/2024-09-12-contribution-618/"
+
+[[redirects]]
+from = "/actualites/2024-08-23-contribution-179/index.html"
+to = "/avis/2024-08-23-contribution-179/"
+
+[[redirects]]
+from = "/actualites/2024-08-17-contribution-75/index.html"
+to = "/avis/2024-08-17-contribution-75/"
+
+[[redirects]]
+from = "/actualites/2024-08-25-contribution-236/index.html"
+to = "/avis/2024-08-25-contribution-236/"
+
+[[redirects]]
+from = "/actualites/2024-09-05-contribution-439/index.html"
+to = "/avis/2024-09-05-contribution-439/"
+
+[[redirects]]
+from = "/actualites/2024-09-08-contribution-538/index.html"
+to = "/avis/2024-09-08-contribution-538/"
+
